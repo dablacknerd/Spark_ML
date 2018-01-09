@@ -179,4 +179,4 @@ println(s"R2: $lassoR2")
 //RMSE: 1127.2981182317026
 //R2: 0.5591200874237744
 
-//Based on R2, Lasso wins.
+//Based on R2, Regular or Rigde regression would perform best.
