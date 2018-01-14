@@ -1,0 +1,13 @@
+Regular Linear Regression R2 on test data = 0.5749058566382368
+Ridge Regression R2 on test data = 0.5748729257062907
+Lasso Regression R2 on test data = 0.5764852441210183
+Decision Tree R2 on test data = 0.6226903041110878
+Random Forest R2(5 Trees) on test data = 0.6097586121507642
+Random Forest R2(10 Trees) on test data = 0.5951698174873672
+Random Forest R2(15 Trees) on test data = 0.6025089021194225
+Random Forest R2(20 trees) on test data = 0.5772406915905346
+Random Forest R2(25 Trees) on test data = 0.6037929999844021
+Random Forest R2(30 Trees) on test data = 0.6004621453534355
+Random Forest R2(35 Trees) on test data = 0.6062800309434742
+Random Forest R2(100 Trees) on test data = 0.5951664321564244
+GradientBoosted Tree R2 on test data = 0.6186942168756306
